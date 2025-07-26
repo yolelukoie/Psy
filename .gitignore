@@ -1,0 +1,12 @@
+ds003478/
+derivatives/
+stimuli/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.wav
+*.fdt
+*.pkl
+all_metadata.csv
